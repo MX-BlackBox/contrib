@@ -13,12 +13,12 @@
 #define MP4V2_PROJECT_url_bugreport   "https://github.com/enzo1982/issues"
 #define MP4V2_PROJECT_support         "<support@mp4v2.org>"
 #define MP4V2_PROJECT_version         "2.1.3"
-#define MP4V2_PROJECT_version_hex     0x00020103
+#define MP4V2_PROJECT_version_hex     0x20103
 #define MP4V2_PROJECT_version_major   2
 #define MP4V2_PROJECT_version_minor   1
 #define MP4V2_PROJECT_version_point   3
 #define MP4V2_PROJECT_repo_url        "git@github.com:enzo1982/mp4v2.git"
-#define MP4V2_PROJECT_build           "Tue Jun 25 10:42:56 UTC 2024"
+#define MP4V2_PROJECT_build           "2024-06-26 15:51:34 UTC"
 
 /*****************************************************************************/
 
